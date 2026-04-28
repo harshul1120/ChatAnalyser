@@ -1,0 +1,12 @@
+.nuxt
+*.md
+node_modules
+coverage
+pnpm-lock.yaml
+test/*
+static/sw.js
+.direnv
+.idea
+.nuxt
+node_modules
+nuxt.config.js
