@@ -1,4 +1,4 @@
-# WhatsAnalyze
+# ChatAnalyser
 
 * Analyze your WhatsApp chats in seconds
 * Discover insights & statistics while all data remains on your device
